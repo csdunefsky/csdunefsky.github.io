@@ -1253,7 +1253,7 @@ input[type="radio"] + label:before {
   .row::after {
     content: "";
     clear: both;
-    display: table; } 
+    display: table; }
 
 a.image {
   overflow: hidden; }
